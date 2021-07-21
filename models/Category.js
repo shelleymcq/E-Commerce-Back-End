@@ -15,7 +15,11 @@ Category.init(
     },
     category_name: {
       type: DataTypes.STRING,
-      allowNull: false
+      allowNull: false,
+      references: {
+        model: 'product',
+        key: 'id'
+      }
     }
   },
   {
