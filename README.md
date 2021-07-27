@@ -1,4 +1,3 @@
- 
 # E-Commerce-Back-End
 ## Licensing:
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -35,7 +34,5 @@ https://youtu.be/P3o1jAiPqaM
 
 ## Contributors
 To contribute, please email me at the address below.
-## Future Considerations
-There is a bug in the code for updating Category and Tag that still needs to be fixed.
 ## Questions 
 https://github.com/shelleymcq or email me at shelleymcq.dev@gmail.com
