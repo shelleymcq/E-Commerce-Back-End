@@ -8,13 +8,15 @@ This back end for an e-commerce site was built by modifying starter code. The ap
 * [Usage](#Usage)
 * [Technologies](#Technologies)
 * [Contributors](#Contributors)
-* [Future Considerations](#Future)
 * [Questions](#Questions)
 ## Installation
 Fork this repo and download the files to your local environment. Install the dependencies and create a .env file.
 ## Usage
-### Demo Video
+### _Demo Videos_
+#### get all, get one, delete
 https://youtu.be/P3o1jAiPqaM
+#### update
+https://youtu.be/1os45Xw5fzY
 
 1. Create the schema from the MySQL shell.
 ![schema](./images/schema.png)
