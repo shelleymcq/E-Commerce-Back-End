@@ -2,7 +2,7 @@
 ## Licensing:
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-This back end for an e-commerce site was built by modifying starter code. The app allows a user to connect to a databse using Sequelize, create and seed a development database, start the server, sync the Sequelize models to the MySQL database.
+This back end for an e-commerce site was built by modifying starter code. The app allows a user to connect to a database using Sequelize, create and seed a development database, start the server, sync the Sequelize models to the MySQL database.
 ## Table of Contents
 * [Installation](#Installation)
 * [Usage](#Usage)
